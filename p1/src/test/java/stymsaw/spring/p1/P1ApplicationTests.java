@@ -1,10 +1,10 @@
-package stymsaw.spring.project1;
+package stymsaw.spring.p1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Project1ApplicationTests {
+class P1ApplicationTests {
 
 	@Test
 	void contextLoads() {
