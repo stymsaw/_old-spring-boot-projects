@@ -12,6 +12,12 @@ public class App02HelloWorldSpring {
         var name = context.getBean("name");
         System.out.println(name);
 
+        var person = context.getBean("person");
+        System.out.println(person);
+
+        var address = context.getBean("address");
+        System.out.println(address);
+
 
     }
 }
