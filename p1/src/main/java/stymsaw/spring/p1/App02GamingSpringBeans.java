@@ -15,6 +15,9 @@ public class App02GamingSpringBeans {
 
             context.getBean(GamingConsole.class).up();
 
+            context.getBean(GameRunner.class).run();
+
+
 
         }
 
