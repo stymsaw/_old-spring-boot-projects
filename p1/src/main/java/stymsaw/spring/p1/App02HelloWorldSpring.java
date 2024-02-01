@@ -15,7 +15,7 @@ public class App02HelloWorldSpring {
         var person = context.getBean("person");
         System.out.println(person);
 
-        var address = context.getBean("address");
+        var address = context.getBean(Address.class);
         System.out.println(address);
 
 
