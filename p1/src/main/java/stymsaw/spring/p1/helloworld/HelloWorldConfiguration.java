@@ -1,4 +1,4 @@
-package stymsaw.spring.p1;
+package stymsaw.spring.p1.helloworld;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
